@@ -1,0 +1,12 @@
+require("darkrose").setup({
+    colors={
+        orange="#F87757",
+    },
+    overrides=function(c)
+        return{
+            Class={fg=c.magenta},
+            ["@variable"]={fg=c.fg_dark},
+        }
+    end
+})
+vim.cmd.colorscheme("darkrose")
