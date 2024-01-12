@@ -4,6 +4,7 @@ require('plugins.lualine')
 require('plugins.nvim-tree')
 require('plugins.bufferline')
 require('plugins.vim-cpp-modern')
+require('plugins.themery')
 
 --colorschemes
 require('plugins.kanagawa')

@@ -18,6 +18,9 @@ return require('packer').startup(function(use)
     use('nvim-tree/nvim-tree.lua')
     use('akinsho/bufferline.nvim')
     use('bfrg/vim-cpp-modern')
+    use('zaldih/themery.nvim')
+    use('p00f/cphelper.nvim')
+    use('nvim-lua/plenary.nvim')
 
     --themes
     use('rebelot/kanagawa.nvim')
@@ -36,6 +39,10 @@ return require('packer').startup(function(use)
     use('dzfrias/noir.nvim')
     use('iceisspetrel/Monrovia')
     use('jssee/vim-cortado')
+    use('rmccorm4/pynux')
+    use('brettbar/siena.vim')
+    use('kartik1998/simba.vim')
+    
 
     if packer_bootstrap then
         require('packer').sync()

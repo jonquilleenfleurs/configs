@@ -5,13 +5,15 @@ local g=vim.g
 opt.number=true
 opt.cursorline=true
 opt.laststatus=2
+opt.relativenumber=true
 
 --colorscheme_settings
 opt.termguicolors=true
 -- kanagawa-wave/dragon/lotus  darkrose  sunbather  vimdark imas 
 -- nisha  monovibrant  codesmell_dark  moonlight  no-clown-fiesta
 -- mono_sw  efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
-vim.cmd('colorscheme mono_sw') 
+-- pynax  siena  simba-black  
+vim.cmd('colorscheme siena') 
 
 --tab_settings
 opt.expandtab=true
