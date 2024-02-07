@@ -12,8 +12,8 @@ opt.termguicolors=true
 -- kanagawa-wave/dragon/lotus  darkrose  sunbather  vimdark imas 
 -- nisha  monovibrant  codesmell_dark  moonlight  no-clown-fiesta
 -- mono_sw  efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
--- pynax  siena  simba-black  
-vim.cmd('colorscheme siena') 
+-- pynax  siena  simba-black  mourning  lanai  pt_black  squire  hybrid  darkness_leaks
+vim.cmd('colorscheme squire') 
 
 --tab_settings
 opt.expandtab=true

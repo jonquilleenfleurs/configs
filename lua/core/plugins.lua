@@ -41,7 +41,12 @@ return require('packer').startup(function(use)
     use('rmccorm4/pynux')
     use('brettbar/siena.vim')
     use('kartik1998/simba.vim')
-    
+    use('zakj/vim-mourning')
+    use('cseelus/vim-colors-lanai')
+    use('yantze/pt_black')
+    use('DryLabRebel/Squire')
+    use('parkerault/onivim-theme-hybrid')
+    use('jy-r/darkness_leaks')
 
     if packer_bootstrap then
         require('packer').sync()
