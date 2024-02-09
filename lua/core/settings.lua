@@ -9,11 +9,11 @@ opt.relativenumber=true
 
 --colorscheme_settings
 opt.termguicolors=true
--- kanagawa-wave/dragon/lotus  darkrose  sunbather  vimdark imas 
+-- kanagawa-wave/dragon/lotus  darkrose  sunbather  vimdark
 -- nisha  monovibrant  codesmell_dark  moonlight  no-clown-fiesta
--- mono_sw  efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
--- pynax  siena  simba-black  mourning  lanai  pt_black  squire  hybrid  darkness_leaks
-vim.cmd('colorscheme squire') 
+-- efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
+-- siena  simba-black  mourning  lanai  pt_black  squire  hybrid  darkness_leaks
+vim.cmd('colorscheme darkrose') 
 
 --tab_settings
 opt.expandtab=true

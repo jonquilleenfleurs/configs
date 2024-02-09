@@ -5,6 +5,7 @@ require('plugins.nvim-tree')
 require('plugins.bufferline')
 require('plugins.vim-cpp-modern')
 require('plugins.themery')
+require('plugins.plenary')
 
 --colorschemes
 require('plugins.kanagawa')
