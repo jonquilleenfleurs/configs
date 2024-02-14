@@ -13,7 +13,7 @@ opt.termguicolors=true
 -- nisha  monovibrant  codesmell_dark  moonlight  no-clown-fiesta
 -- efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
 -- siena  simba-black  mourning  lanai  pt_black  squire  hybrid  darkness_leaks
-vim.cmd('colorscheme darkrose') 
+vim.cmd('colorscheme squire') 
 
 --tab_settings
 opt.expandtab=true
