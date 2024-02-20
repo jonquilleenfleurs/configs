@@ -21,6 +21,7 @@ return require('packer').startup(function(use)
     use('zaldih/themery.nvim')
     use('p00f/cphelper.nvim')
     use('nvim-lua/plenary.nvim')
+    use('tpope/vim-commentary')
 
     --themes
     use('rebelot/kanagawa.nvim')
