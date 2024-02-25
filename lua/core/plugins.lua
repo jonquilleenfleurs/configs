@@ -22,6 +22,7 @@ return require('packer').startup(function(use)
     use('p00f/cphelper.nvim')
     use('nvim-lua/plenary.nvim')
     use('tpope/vim-commentary')
+    use('mfussenegger/nvim-dap')
 
     --themes
     use('rebelot/kanagawa.nvim')
@@ -39,10 +40,10 @@ return require('packer').startup(function(use)
     use('jssee/vim-cortado')
     use('brettbar/siena.vim')
     use('kartik1998/simba.vim')
-    use('cseelus/vim-colors-lanai')
     use('yantze/pt_black')
     use('DryLabRebel/Squire')
     use('parkerault/onivim-theme-hybrid')
+    use('samir-roy/shinjuku.nvim')
 
     if packer_bootstrap then
         require('packer').sync()

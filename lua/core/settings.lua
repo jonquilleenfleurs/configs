@@ -12,8 +12,8 @@ opt.termguicolors=true
 -- kanagawa-wave/dragon/lotus  darkrose  sunbather  vimdark
 -- nisha  monovibrant  codesmell_dark  moonlight  no-clown-fiesta
 -- efficient/-lean/-lean-soft  burgundy  noir  monrovia  cortado 
--- siena  simba-black  lanai  pt_black  squire  hybrid
-vim.cmd('colorscheme squire') 
+-- siena  simba-black  pt_black  squire  hybrid  shinjuku
+vim.cmd('colorscheme shinjuku') 
 
 --tab_settings
 opt.expandtab=true
