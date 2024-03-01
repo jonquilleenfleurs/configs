@@ -1,0 +1,11 @@
+require("no-clown-fiesta").setup({
+  transparent=false,
+  styles={
+    comments={},
+    keywords={},
+    functions={},
+    variables={},
+    type={bold=true},
+    lsp={underline=true}
+  },
+})
